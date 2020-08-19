@@ -2,7 +2,7 @@
   
   
 # RecursividadeSomaVetor
-Exemplo do uso de recursividade para somar elementos array unidimensional
+Exemplo do uso de recursividade para somar elementos em array unidimensional
 
 
   
